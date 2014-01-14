@@ -32,7 +32,7 @@ group :doc do
   gem 'sdoc', require: false
 end
 
-#gem 'devise'
+gem 'devise'
 gem 'ancestry'
 
 # Use ActiveModel has_secure_password
